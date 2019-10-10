@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">proto</string>
+    <string name="Escanear">Escanear</string>
+    <string name="conferencia_2">Conferencia 2</string>
+    <string name="Conferencia1">First</string>
+    <string name="Conferencia2">RadioButton</string>
+    <string name="Conferencia3">RadioButton</string>
+    <string name="Conferencia4">RadioButton</string>
+    <string name="Conferencia5">RadioButton</string>
+    <string name="Conferencia6">RadioButton</string>
+    <string name="Conferencia7">RadioButton</string>
+    <string name="Conferencia8">RadioButton</string>
+    <string name="Conferencia9">RadioButton</string>
+    <string name="Inauguracion">Inauguracion</string>
+    <string name="Trabajarenpijamas">Trabajar en pijamas</string>
+
+    <string name="confe_prompt">conferencias</string>
+
+    <string-array name="Conferencias">
+        <item>Revista Correo</item>
+        <item>Ciberseguridad en Sonora</item>
+        <item>relax if you know english</item>
+        <item>SSI Schaefer</item>
+        <item>Caffenio</item>
+        <item>C5-Secretaría de Seguridad</item>
+        <item>CISCO</item>
+    </string-array>
+</resources>
